@@ -7,5 +7,5 @@ Hello! My name is Spirast, and I am a dedicated Lua scripter based in Las Vegas.
 
 ## Contact Me
 - **Email**: spirast553@gmail.com
-- **Discord**: spirast
 - **ROBLOX**: https://www.roblox.com/users/2010572164/profile
+- **Discord**: spirast
