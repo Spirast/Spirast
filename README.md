@@ -8,7 +8,7 @@ I rely on Visual Studio Code (VSCode) as my primary code editor, which significa
 Beyond technical skills, I am committed to continuous learning and always eager to tackle new challenges. Whether it’s developing innovative game mechanics or optimizing existing systems, I strive to deliver high-quality results.
 
 ## Languages I code in
-- **Lua**: One year of experience
+- **Lua**: Two years of experience
 - **Javascript**: 2 months of experience
 
 ## Contact Me
