@@ -7,7 +7,7 @@ Beyond technical skills, I am committed to continuous learning and always eager 
 
 ## Languages I code in
 - **Lua**: Two years of experience
-- **Javascript**: 2 months of experience
+- **Javascript**: 6 months of experience
 
 ## Contact Me
 - **Email**: spirast553@gmail.com
