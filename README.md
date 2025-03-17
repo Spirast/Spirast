@@ -2,6 +2,7 @@
 Hello! My name is Spirast, and I am a passionate Lua scripter based in Las Vegas with two years of dedicated experience in scripting.
 
 Beyond technical skills, I am committed to continuous learning and always eager to tackle new challenges. Whether it’s developing innovative game mechanics or optimizing existing systems, I strive to deliver high-quality results.
+My programming is significantly enhanced by implementing Rojo into my workflow.
 
 ## Languages I code in
 - **Lua**: Two years of experience
