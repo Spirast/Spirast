@@ -2,27 +2,27 @@
 
 ## 🎮 Roblox Luau Developer
 
-I'm a passionate Roblox developer with 2 years of experience crafting engaging experiences using Luau. I specialize in creating efficient, maintainable code for Roblox games and systems.
+I am a dedicated Roblox developer with two years of experience in designing and implementing interactive experiences utilizing the Luau programming language. My expertise lies in developing efficient and maintainable code structures for Roblox games and associated systems.
 
 ## 🛠️ Skills & Tools
 
-### Languages
-- **Luau** - Advanced proficiency with 2 years of experience
-- **Lua** - Strong understanding of core language features
+### Programming Languages
+- **Luau**: Advanced proficiency demonstrated over a period of two years.
+- **Lua**: Strong comprehension of fundamental language constructs and features.
 
 ### Development Environment
-- **VSCode** - My primary IDE with extensions for Roblox development
-- **Rojo** - Experienced in using Rojo for syncing external code to Roblox Studio
-- **Git/GitHub** - Version control and collaboration
-- **Pesde** - Package management for Roblox projects
+- **Visual Studio Code (VSCode)**: Primary integrated development environment (IDE) utilized, equipped with extensions specifically tailored for Roblox development.
+- **Rojo**: Proficient in employing Rojo for the synchronization of external codebases with Roblox Studio.
+- **Git/GitHub**: Utilized for version control and collaborative software development.
+- **Pesde**: Experienced in package management for Roblox project dependencies.
 
 ## 🔧 Technical Expertise
 
-- **Game Systems Development** - Creating robust, scalable systems
-- **UI Programming** - Designing responsive and intuitive user interfaces
-- **Performance Optimization** - Writing efficient code for smooth gameplay
-- **Object-Oriented Programming** - Designing maintainable class structures
-- **Memory Management** - Preventing memory leaks and optimizing resource usage
+- **Game Systems Development**: Expertise in architecting robust and scalable systems for game functionality.
+- **User Interface Programming**: Skilled in the design and implementation of responsive and intuitive user interfaces.
+- **Performance Optimization**: Proficient in writing code aimed at maximizing efficiency for enhanced gameplay smoothness.
+- **Object-Oriented Programming (OOP)**: Competent in structuring maintainable class hierarchies and abstraction layers.
+- **Memory Management**: Adept at implementing strategies to prevent memory leaks and optimize resource utilization.
 
 ## 🚀 Workflow
 
@@ -47,11 +47,11 @@ https://www.roblox.com/games/119321674031466/100-PLAYER-ROAD-CROSSING
 
 ## 📚 Learning & Growth
 
-I'm constantly expanding my knowledge in:
-- Advanced Luau features and optimizations
-- Game design principles
-- UI/UX best practices
-- Server-side performance optimization
+I am perpetually augmenting my expertise in the following areas:
+- Advanced functionalities and optimization techniques in Luau
+- Principles of game design
+- Best practices in user interface (UI) and user experience (UX) design
+- Optimization of server-side performance
 
 ## 📫 Connect With Me
 
@@ -60,4 +60,4 @@ I'm constantly expanding my knowledge in:
 
 ---
 
-*Feel free to explore my repositories to see my coding style and projects!*
+I encourage you to browse through my repositories to gain insights into my coding style and the projects I have undertaken.
