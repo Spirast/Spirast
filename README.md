@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Spirast!
 
 ## Coding Style
-**Should you wish to examine the structure and implementation of my code, navigate to the section below this README.md, select any repository of interest, and explore the "src" directory. Additionally, I may periodically publish a .rbxm release; therefore, I encourage you to also review the releases section.**
+**Should you wish to examine the structure and implementation of my code, navigate to the section below this README.md or on the top left, select repositories, select any repository of interest, and explore the "src" directory. Additionally, I may periodically publish a .rbxm release; therefore, I encourage you to also review the releases section.**
 
 ## 🎮 Roblox Luau Developer
 
