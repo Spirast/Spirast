@@ -60,4 +60,4 @@ I am perpetually augmenting my expertise in the following areas:
 
 ---
 
-I encourage you to browse through my repositories to gain insights into my coding style and the projects I have undertaken.
+Should you wish to examine the structure and implementation of my code, navigate to the section below, select any repository of interest, and explore the "src" directory. Additionally, I may periodically publish a .rbxm release; therefore, I encourage you to also review the releases section.
