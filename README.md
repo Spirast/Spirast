@@ -1,5 +1,8 @@
 # 👋 Hello, I'm Spirast!
 
+## Coding Style
+**Should you wish to examine the structure and implementation of my code, navigate to the section below, select any repository of interest, and explore the "src" directory. Additionally, I may periodically publish a .rbxm release; therefore, I encourage you to also review the releases section.**
+
 ## 🎮 Roblox Luau Developer
 
 I am a dedicated Roblox developer with two years of experience in designing and implementing interactive experiences utilizing the Luau programming language. My expertise lies in developing efficient and maintainable code structures for Roblox games and associated systems.
@@ -59,5 +62,3 @@ I am perpetually augmenting my expertise in the following areas:
 - **Discord:** spirast
 
 ---
-
-Should you wish to examine the structure and implementation of my code, navigate to the section below, select any repository of interest, and explore the "src" directory. Additionally, I may periodically publish a .rbxm release; therefore, I encourage you to also review the releases section.
