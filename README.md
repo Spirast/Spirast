@@ -5,12 +5,12 @@
 
 ## 🎮 Roblox Luau Developer
 
-I am a dedicated Roblox developer with two years of experience in designing and implementing interactive experiences utilizing the Luau programming language. My expertise lies in developing efficient and maintainable code structures for Roblox games and associated systems.
+I am a dedicated Roblox developer with three years of experience in designing and implementing interactive experiences utilizing the Luau programming language. My expertise lies in developing efficient and maintainable code structures for Roblox games and associated systems.
 
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
-- **Luau**: Advanced proficiency demonstrated over a period of two years.
+- **Luau**: Advanced proficiency demonstrated over a period of three years.
 - **Lua**: Strong comprehension of fundamental language constructs and features.
 
 ### Development Environment
