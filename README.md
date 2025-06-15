@@ -11,7 +11,7 @@ I am a dedicated Roblox developer with three years of experience in designing an
 
 ### Programming Languages
 - **Luau**: Advanced proficiency demonstrated over a period of three years.
-- **Lua**: Strong comprehension of fundamental language constructs and features.
+- **TypeScript**: A year of professional development experience specializing in Roblox TypeScript (roblox-ts) framework and ecosystem.
 
 ### Development Environment
 - **Visual Studio Code (VSCode)**: Primary integrated development environment (IDE) utilized, equipped with extensions specifically tailored for Roblox development.
