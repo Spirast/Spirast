@@ -27,4 +27,13 @@ I believe that code should be as easy to read as it is to write. Whether I am sc
 *   **Cleanliness:** Linted, formatted, and efficient code.
 *   **Readability:** Logic that future maintainers can understand immediately.
 
-[Add your contact info/Discord handle here]
+---
+
+<div align="center">
+
+### 📫 Connect with me
+
+![Discord](https://img.shields.io/badge/Discord-spirast-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-spirasto-000000?style=for-the-badge&logo=roblox&logoColor=white)
+
+</div>
