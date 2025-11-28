@@ -2,12 +2,12 @@
 
 # Hi, I'm Spirast 👋
 
-### Roblox Developer
-**Luau** | **roblox-ts**
+### Fullstack Roblox Developer
+**3 Years Luau** | **2 Years TypeScript**
 
 <br />
 
-I specialize in professional Roblox development using an external workflow with **Rojo** and **VS Code**. My primary focus is engineering systems that are **readable**, **clean**, and **modular**.
+I specialize in professional fullstack development using an external workflow with **Rojo**, **Wally**, and **VS Code**. My primary focus is engineering systems that are **readable**, **clean**, and **modular**.
 
 <br />
 
@@ -15,6 +15,7 @@ I specialize in professional Roblox development using an external workflow with 
 ![TypeScript](https://img.shields.io/badge/roblox--ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Rojo](https://img.shields.io/badge/Rojo-AD1408?style=for-the-badge&logo=roblox&logoColor=white)
+![Wally](https://img.shields.io/badge/Wally-AD1408?style=for-the-badge&logo=rubygems&logoColor=white)
 
 </div>
 
@@ -22,7 +23,7 @@ I specialize in professional Roblox development using an external workflow with 
 
 ### 🔧 Development Philosophy
 I believe that code should be as easy to read as it is to write. Whether I am scripting in strict **Luau** or strictly-typed **roblox-ts**, I prioritize:
-*   **Modularity:** Decoupled systems that scale.
+*   **Modularity:** Decoupled systems that scale using **Wally** packages.
 *   **Cleanliness:** Linted, formatted, and efficient code.
 *   **Readability:** Logic that future maintainers can understand immediately.
 
