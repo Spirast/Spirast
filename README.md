@@ -1,64 +1,29 @@
-# 👋 Hello, I'm Spirast!
+<div align="center">
 
-## Coding Style
-**I implement code adhering to clean coding principles to ensure maintainability, readability, and ease of modification.**
+# Hi, I'm Spirast 👋
 
-## 🎮 Roblox Luau Developer
+### Roblox Developer
+**Luau** | **roblox-ts**
 
-I am a dedicated Roblox developer with three years of experience in designing and implementing interactive experiences utilizing the Luau programming language. My expertise lies in developing efficient and maintainable code structures for Roblox games and associated systems.
+<br />
 
-## 🛠️ Skills & Tools
+I specialize in professional Roblox development using an external workflow with **Rojo** and **VS Code**. My primary focus is engineering systems that are **readable**, **clean**, and **modular**.
 
-### Programming Languages
-- **Luau**: Advanced proficiency demonstrated over a period of three years.
-- **TypeScript**: A year of professional development experience specializing in Roblox TypeScript (roblox-ts) framework and ecosystem.
+<br />
 
-### Development Environment
-- **Visual Studio Code (VSCode)**: Primary integrated development environment (IDE) utilized, equipped with extensions specifically tailored for Roblox development.
-- **Rojo**: Proficient in employing Rojo for the synchronization of external codebases with Roblox Studio.
-- **Git/GitHub**: Utilized for version control and collaborative software development.
-- **Pesde**: Experienced in package management for Roblox project dependencies.
+![Luau](https://img.shields.io/badge/Luau-005CA4?style=for-the-badge&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/roblox--ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rojo](https://img.shields.io/badge/Rojo-AD1408?style=for-the-badge&logo=roblox&logoColor=white)
 
-## 🔧 Technical Expertise
-
-- **Game Systems Development**: Expertise in architecting robust and scalable systems for game functionality.
-- **User Interface Programming**: Skilled in the design and implementation of responsive and intuitive user interfaces.
-- **Performance Optimization**: Proficient in writing code aimed at maximizing efficiency for enhanced gameplay smoothness.
-- **Object-Oriented Programming (OOP)**: Competent in structuring maintainable class hierarchies and abstraction layers.
-- **Memory Management**: Adept at implementing strategies to prevent memory leaks and optimize resource utilization.
-
-## 🚀 Workflow
-
-My typical development workflow involves:
-
-1. **Planning & Architecture** - Designing systems before implementation
-2. **Local Development** - Coding in VSCode with Roblox LSP for intellisense
-3. **Rojo Integration** - Syncing code to Roblox Studio for testing
-4. **Version Control** - Regular commits and proper branching strategies
-5. **Package Management** - Using Pesde to incorporate external libraries
-6. **Testing & Optimization** - Ensuring performance and stability
-
-## 📂 Featured Projects
-
-### 100 Player Road Crossing
-Game where you dodge flying cars to get to the other side.
-Made all by me.
-
-**Technologies:** Luau, Trove, Signal, Lumin Framework
-
-https://www.roblox.com/games/119321674031466/100-PLAYER-ROAD-CROSSING
-
-## 📚 Learning & Growth
-
-I am perpetually augmenting my expertise in the following areas:
-- Advanced functionalities and optimization techniques in Luau
-- Principles of game design
-- Best practices in user interface (UI) and user experience (UX) design
-- Optimization of server-side performance
-
-## 📫 Connect With Me
-
-- **Roblox:** spirasto
-- **Discord:** spirast
+</div>
 
 ---
+
+### 🔧 Development Philosophy
+I believe that code should be as easy to read as it is to write. Whether I am scripting in strict **Luau** or strictly-typed **roblox-ts**, I prioritize:
+*   **Modularity:** Decoupled systems that scale.
+*   **Cleanliness:** Linted, formatted, and efficient code.
+*   **Readability:** Logic that future maintainers can understand immediately.
+
+[Add your contact info/Discord handle here]
