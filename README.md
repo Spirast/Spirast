@@ -36,4 +36,7 @@ i think that all code should be ez af to read when im finished with it
 ![Discord](https://img.shields.io/badge/Discord-spirast-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-spirasto-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
+### u should also check out my site its way sexier than this
+i dont have it rn but it will be here soon trust
+
 </div>
