@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Spirast 👋
+# wats up im spirast
 
 ### Fullstack Roblox Developer
 **3 Years Luau** | **2 Years TypeScript**
 
 <br />
 
-I specialize in professional fullstack development using an external workflow with **Rojo**, **Wally**, and **VS Code**. My primary focus is engineering systems that are **readable**, **clean**, and **modular**.
+i make sure that all of my code is sexy and modular with **visual studio code + rojo + wally**
 
 <br />
 
@@ -22,10 +22,10 @@ I specialize in professional fullstack development using an external workflow wi
 ---
 
 ### 🔧 Development Philosophy
-I believe that code should be as easy to read as it is to write. Whether I am scripting in strict **Luau** or strictly-typed **roblox-ts**, I prioritize:
-*   **Modularity:** Decoupled systems that scale using **Wally** packages.
-*   **Cleanliness:** Linted, formatted, and efficient code.
-*   **Readability:** Logic that future maintainers can understand immediately.
+i think that all code should be ez af to read when im finished with it
+*   **Modularity:** when u add shit itll be so ez u will glaze me for it
+*   **Cleanliness:** when u look at my code, itll never look like its being held up by hopes and dreams, nah itll be held up by steel and encased in diamond
+*   **Readability:** when u read thru my code it will be ALL over the screen when ur done reading it
 
 ---
 
