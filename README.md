@@ -1,5 +1,3 @@
 # [Spirast]
 
 `roblox-ts`
-
----
