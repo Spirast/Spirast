@@ -15,3 +15,9 @@
 <p align="center">
   <a href="https://discord.com/users/836747673985744987"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><a href="https://www.roblox.com/users/2010572164/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Spirast&langs_count=4&theme=dark_github">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Spirast&langs_count=4&theme=dark_github" alt="GitHub Stats" />
+  </a>
+</p>
