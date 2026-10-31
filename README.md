@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Spirast&langs_count=4&theme=dark_github">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Spirast&langs_count=4&theme=dark_github" alt="GitHub Stats" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Spirast&langs_count=3&theme=dark_github">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Spirast&langs_count=3&theme=dark_github" alt="GitHub Stats" />
   </a>
 </p>
